@@ -268,7 +268,7 @@ I believe the factory floor is as sacred as the sketchbook. Understanding **how*
 │  CLASSIFICATION  :  TOP SECRET — FUTURE INITIATIVE          │
 │  OBJECTIVE       :  An open-source CAD template library     │
 │                     for Indian manufacturing SMEs that      │
-│                     lets small factories produce precision  
+│                     lets small factories produce precision  |w
 │                     parts without expensive design teams.   │
 │  TARGET IMPACT   :  50,000+ manufacturers across India.     │
 │  STATUS          :  [ █░░░░░░░░░░░ ] CONCEPT PHASE          │
