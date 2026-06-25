@@ -62,10 +62,10 @@
 │  DESIGNATION   :  Product Designer in the Making | ECE Engineer             │
 │  BASE STATION  :  India 🇮🇳                                                  │
 │  ACADEMIC CORE :  Electronics & Communication Engineering — Year 01         │
-│  PRECISION GPA :  8.75 / 10.00  ████████████████████░  [ELITE TIER]        │
+│  PRECISION GPA :  8.75 / 10.00  ████████████████████░  [ELITE TIER]         │
 │  PRIMARY DRIVE :  Transform raw ideas into products that reshape reality    │
 │  SYSTEM UPTIME :  Building daily since the day I understood what "design"   │
-│                   actually means — that it changes lives, not just screens   │
+│                   actually means — that it changes lives, not just screens  │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -153,20 +153,6 @@ CURRENT OPERATIONAL FOCUS:
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║              REACTOR CORE — DOMAIN ENERGY MAP                    ║
-╠═══════════════════════════════════════════════════════════════════╣
-║                                                                   ║
-║   PRODUCT DESIGN  ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈  PRIMARY REACTOR       ║
-║   CAD / SOLIDWORKS ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈  FUSION CHAMBER        ║
-║   MANUFACTURING    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░  ACCELERATING          ║
-║   ARDUINO / HW     ◈◈◈◈◈◈◈◈◈◈◈◈░░░░░░░░  CHARGING              ║
-║   DESIGN THINKING  ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░  NEAR CRITICAL         ║
-║   MOLD/EDM DESIGN  ◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░░░░  BUILDING              ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
@@ -185,25 +171,25 @@ CURRENT OPERATIONAL FOCUS:
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
-│                       MANUFACTURING KNOWLEDGE GRID                        │
+│                       MANUFACTURING KNOWLEDGE GRID                       │
 ├──────────────────────────────────────────────────────────────────────────┤
-│                                                                            │
+│                                                                          │
 │   ┌─────────────────┐   ┌─────────────────┐   ┌─────────────────┐        │
 │   │   MOLD DESIGN   │   │  EDM ELECTRODE  │   │    CNC / CAM    │        │
 │   │                 │   │     DESIGN      │   │                 │        │
-│   │  Core & Cavity  │   │  Copper/Graphite│   │  Toolpaths &   │        │
-│   │  Runner Systems │   │  Precision Burns│   │  G-code Logic  │        │
-│   │  Gate Design    │   │  Surface Finish │   │  Work-holding  │        │
+│   │  Core & Cavity  │   │  Copper/Graphite│   │  Toolpaths &    │        │
+│   │  Runner Systems │   │  Precision Burns│   │  G-code Logic   │        │
+│   │  Gate Design    │   │  Surface Finish │   │  Work-holding   │        │
 │   └────────┬────────┘   └────────┬────────┘   └────────┬────────┘        │
-│            │                     │                      │                  │
-│            └─────────────────────┼──────────────────────┘                 │
-│                                  ▼                                         │
-│                    ┌─────────────────────────┐                            │
-│                    │  REVERSE ENGINEERING     │                            │
-│                    │  Scan → Model → Improve  │                            │
-│                    │  Physical → Digital → ∞  │                            │
-│                    └─────────────────────────┘                            │
-│                                                                            │
+│            │                     │                      │                │
+│            └─────────────────────┼──────────────────────┘                │
+│                                  ▼                                       │
+│                    ┌─────────────────────────┐                           │
+│                    │  REVERSE ENGINEERING    │                           │
+│                    │  Scan → Model → Improve │                           │
+│                    │  Physical → Digital → ∞ │                           │
+│                    └─────────────────────────┘                           │
+│                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -282,7 +268,7 @@ I believe the factory floor is as sacred as the sketchbook. Understanding **how*
 │  CLASSIFICATION  :  TOP SECRET — FUTURE INITIATIVE          │
 │  OBJECTIVE       :  An open-source CAD template library     │
 │                     for Indian manufacturing SMEs that      │
-│                     lets small factories produce precision   │
+│                     lets small factories produce precision  
 │                     parts without expensive design teams.   │
 │  TARGET IMPACT   :  50,000+ manufacturers across India.     │
 │  STATUS          :  [ █░░░░░░░░░░░ ] CONCEPT PHASE          │
@@ -380,36 +366,6 @@ But every single day, the gap between who I am and who I am becoming — narrows
 </div>
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                    AJAI KUMAR — DESIGN CONSTITUTION v1.0                 ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║                                                                           ║
-║  PRINCIPLE I    ◈  "A design is not finished when there is nothing left  ║
-║                     to add — it is finished when a factory can build it  ║
-║                     without calling you."                                ║
-║                                                                           ║
-║  PRINCIPLE II   ◈  "Empathy is not a feeling. It is a technical spec.    ║
-║                     If it is not in the design requirements, it was      ║
-║                     never really there."                                 ║
-║                                                                           ║
-║  PRINCIPLE III  ◈  "The most sophisticated design is the one the user    ║
-║                     never notices — because it never gets in their way." ║
-║                                                                           ║
-║  PRINCIPLE IV   ◈  "Build ugly. Build fast. Understand why it fails.     ║
-║                     Then build it properly, forever."                    ║
-║                                                                           ║
-║  PRINCIPLE V    ◈  "Form without function is sculpture. Function without ║
-║                     form is engineering. The exact intersection is where ║
-║                     products that change lives are born."                ║
-║                                                                           ║
-║  PRINCIPLE VI   ◈  "Know your material before you draw your line.        ║
-║                     Steel bends differently from polypropylene.          ║
-║                     Respect the physics of your medium."                 ║
-║                                                                           ║
-║  PRINCIPLE VII  ◈  "A product designer who cannot read a factory floor   ║
-║                     is a poet who cannot spell."                         ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
