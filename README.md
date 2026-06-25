@@ -652,17 +652,17 @@ And the direction is irreversible.
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│           COLLABORATION PROTOCOL — WHO I WANT TO MEET          │
+│           COLLABORATION PROTOCOL — WHO I WANT TO MEET           │
 ├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
+│                                                                 │
 │  ✦  Engineers who believe design is a technical discipline      │
 │  ✦  Designers who respect manufacturing constraints             │
 │  ✦  Founders building hardware products that help real people   │
 │  ✦  Mentors who will challenge my assumptions                   │
 │  ✦  Teams building the physical future of India                 │
-│                                                                  │
-│  IF YOU ARE ANY OF THE ABOVE — MY CHANNEL IS OPEN.             │
-│                                                                  │
+│                                                                 │
+│  IF YOU ARE ANY OF THE ABOVE — MY CHANNEL IS OPEN.              │
+│                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
