@@ -272,7 +272,7 @@ ECE KNOWLEDGE MAP → PRODUCT DESIGN APPLICATION:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AJAI_KUMAR RADHAKRISHNAN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AJAIKUMAR RADHAKRISHNAN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AJAI_KUMAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AJAIKUMAR RADHAKRISHNAN)
 [![Email](https://img.shields.io/badge/Email-OPEN_CHANNEL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:padmavathiajaikumar@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AJAI_LABS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AJAIKUMAR02)
 
