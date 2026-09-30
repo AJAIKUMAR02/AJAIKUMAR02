@@ -2,7 +2,7 @@
 ### CAD • PRODUCT DESIGN • MECHANICAL DESIGN
 
 <p align="center">
-  <b>SolidWorks</b> · Parametric CAD · Product Development · Engineering Design · DFM/DFA · Prototyping
+  <b>SolidWorks</b> · Parametric CAD · Product Development · Engineering Design · Prototyping
 </p>
 
 <p align="center">
